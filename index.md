@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: About ME
 feature_text: |
   ## Steven Cutchin
   Website dedicated to my projects and teaching
