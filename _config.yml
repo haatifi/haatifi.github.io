@@ -131,15 +131,15 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
--title: /external/
+-title: external
  url: https://orcid.org/0000-0002-6515-1905
 - title: students
   url: https://github.com/daviddarnes/alembic
 
 
-navigation_footer:
-- title: Created by H.A
-  url: https://haatifi.github.io
+#navigation_footer:
+#- title: Created by H.A
+ # url: https://haatifi.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
