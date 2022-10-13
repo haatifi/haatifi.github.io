@@ -131,11 +131,11 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
--title: external
+-title: /external/
  url: https://orcid.org/0000-0002-6515-1905
 - title: students
   url: https://github.com/daviddarnes/alembic
--title: external
+
 
 navigation_footer:
 - title: Created by H.A
