@@ -123,7 +123,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Luminary
+- title: luminary
   url: /elements/
 - title: Blog
   url: /blog/
@@ -132,7 +132,7 @@ navigation_header:
 - title: Search
   url: /search/
 -title: external
- url: https://orcid.org/0000-0002-6515-1905
+  url: https://orcid.org/0000-0002-6515-1905
 - title: students
   url: https://github.com/daviddarnes/alembic
 
