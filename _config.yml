@@ -127,10 +127,10 @@ navigation_header:
   url: /luminary/
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories/
 - title: Search
   url: /search/
+  - title: Links
+  url: /links/
 - title: students
   url: https://github.com/daviddarnes/alembic
 
