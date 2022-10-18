@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Links
 layout: categories
 excerpt: "Category index"
 aside: true
