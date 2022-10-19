@@ -4,12 +4,11 @@ feature_image: "https://cdn.dribbble.com/users/6203/screenshots/3889093/gp_air_2
 
 ---
 
-Creating a collabortive virtual envioment for the community
+ #  Creating a collaborative virtual environment for the community and educational purposes is one of Dr. Cutchin's top priorities.  
 
  * Director Research Computing Boise State University Boise ID
  * VIP-VR Immersive Virtual Reality displays
  * Terascale computational visualization techniques
-
 
 
 # Areas of interets include 
