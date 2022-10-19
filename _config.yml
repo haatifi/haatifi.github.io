@@ -136,8 +136,8 @@ navigation_header:
 
 
  navigation_footer:
-- title: Back to top
-  url: "#top"
+- title: 
+
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
