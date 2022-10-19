@@ -1,8 +1,8 @@
 ---
 title: luminary
 feature_text: |
-  A demo of Markdown and HTML includes
-feature_image: "https://picsum.photos/2560/600?image=873"
+  Luminary research and development
+feature_image: "assets/images/Lpanels.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
