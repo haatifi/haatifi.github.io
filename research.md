@@ -1,5 +1,5 @@
 ---
 title: Research
-feature_image: "../assets/images/safari.jpg"](https://picsum.photos/2560/600?image=873"
+feature_image: "https://i.pinimg.com/originals/08/88/6b/08886befaf46adf9c0eb19fb2e07b855.jpg"
 
 ---
