@@ -5,11 +5,11 @@ feature_image: "https://cdn.dribbble.com/users/6203/screenshots/3889093/gp_air_2
 ---
 My area of interets include 
 
-Scientific Data Visualization
-Immersive Environments
-Serious Games
-High Performance Computing
-Multi-terabyte data visualization
+* Scientific Data Visualization
+* Immersive Environments
+* Serious Games
+* High Performance Computing
+* Multi-terabyte data visualization
 
 ## Papers 
 
