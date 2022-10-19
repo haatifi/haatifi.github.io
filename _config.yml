@@ -136,8 +136,8 @@ navigation_header:
 
 
 #navigation_footer:
-#- title: Created by H.A
- # url: https://haatifi.github.io
+- title: Created by H.A
+  url: https://haatifi.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
