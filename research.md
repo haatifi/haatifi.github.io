@@ -1,4 +1,4 @@
 ---
-title: Research
+title: research
 feature_text: |
 ---
