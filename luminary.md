@@ -2,7 +2,7 @@
 title: luminary
 feature_text: |
   Luminary research and development
-feature_image: "assets/images/Lpanels.jpg"
+feature_image: "../assets/images/Lpanels.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
