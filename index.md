@@ -12,7 +12,9 @@ Currently he is working on [Luminary](https://www.boisestate.edu/luminary/) muse
 ---
 Dr. Steven Cutchin is a computer science professor at Boise State University. His interests in data visualtions and graphics led him to work for University of Science and Technology (KAUST) in Thuwal, Saudi Arabia. At KAUST he recruited a technical team of engineers and visualization scientists while managing the building of the state of the art scientific data visualization laboratory on the KAUST campus. He helped build relationships with international universities and corporate partners which helped to improve the laboratory. Prior to his work in Saudi Arabia, Dr. Cutchin worked at the University of California, San Diego (UCSD) first as manager of Visualization Services at the San Diego Supercomputer Center and later at California Institute for Telecommunications and Information Technology (Calit2). He has worked as a Sr. Software Engineer at Walt Disney Feature Animation developing software tools to improve animation production on feature films. He has published articles on Computer Graphics and Visualization, created animations for Discovery Channel and images for SIGGRAPH and Supercomputing conferences and journals. He received his doctorate from Purdue University in Computer Science. 
 
-Currently he is working on [Luminary](https://www.boisestate.edu/luminary/) museum."
+Currently he is working on development of Keith and Katherine stien Luminary museum."
+
+{% include button.html text="Luminary" link="https://www.boisestate.edu/luminary/" %}
 
 # Education 
 
@@ -29,7 +31,6 @@ Currently he is working on [Luminary](https://www.boisestate.edu/luminary/) muse
 * High Performance Computing
 * Multi-terabyte data visualization
 
-{% include button.html text="A button" link="https://david.darn.es" %}
 
 {% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
 
