@@ -4,9 +4,7 @@ feature_text: |
   ## Steven Cutchin
   Professor | Researcher | Mentor
 feature_image: "../assets/header.png"
-excerpt: "Dr. Steven Cutchin is a computer science professor at Boise State University. His interests in data visualtions and graphics led him to work for University of Science and Technology (KAUST) in Thuwal, Saudi Arabia. At KAUST he recruited a technical team of engineers and visualization scientists while managing the building of the state of the art scientific data visualization laboratory on the KAUST campus. He helped build relationships with international universities and corporate partners which helped to improve the laboratory. Prior to his work in Saudi Arabia, Dr. Cutchin worked at the University of California, San Diego (UCSD) first as manager of Visualization Services at the San Diego Supercomputer Center and later at California Institute for Telecommunications and Information Technology (Calit2). He has worked as a Sr. Software Engineer at Walt Disney Feature Animation developing software tools to improve animation production on feature films. He has published articles on Computer Graphics and Visualization, created animations for Discovery Channel and images for SIGGRAPH and Supercomputing conferences and journals. He received his doctorate from Purdue University in Computer Science. 
-
-Currently he is working on [Luminary](https://www.boisestate.edu/luminary/) museum."
+excerpt: "Dr. Steven Cutchin professor at Boise State University. 
 
 
 ---
