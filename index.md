@@ -21,6 +21,14 @@ Currently he is working on [Luminary](https://www.boisestate.edu/luminary/) muse
 * M.S. in Computer Science, Dept. of Computer Sciences, Purdue University, May 1993.
 * B.S. Double Major in Computer Science and Mathematics, Purdue University, May 1990.
 
+# Areas of Intereset 
+
+* Scientific Data Visualization
+* Immersive Environments
+* Serious Games
+* High Performance Computing
+* Multi-terabyte data visualization
+
 {% include button.html text="A button" link="https://david.darn.es" %}
 
 {% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
