@@ -14,6 +14,13 @@ Dr. Steven Cutchin is a computer science professor at Boise State University. Hi
 
 Currently he is working on [Luminary](https://www.boisestate.edu/luminary/) museum."
 
+# Education 
+
+
+* Ph.D. Computer Science, Dept. of Computer Sciences, Purdue University, August 2000. Thesis: Flexible User Interface Coupling with Operation Transformation
+* M.S. in Computer Science, Dept. of Computer Sciences, Purdue University, May 1993.
+* B.S. Double Major in Computer Science and Mathematics, Purdue University, May 1990.
+
 {% include button.html text="A button" link="https://david.darn.es" %}
 
 {% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
