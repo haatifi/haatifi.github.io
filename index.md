@@ -4,7 +4,7 @@ feature_text: |
   ## Steven Cutchin
   Professor | Researcher | Mentor
 feature_image: "../assets/header.png"
-excerpt: "Dr. Steven Cutchin professor at Boise State University. 
+excerpt: "Dr. Steven Cutchin professor at Boise State University."
 
 
 ---
