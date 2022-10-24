@@ -1,5 +1,5 @@
 ---
-title: Luminary
+title: Introfuction to Luminary
 feature_text: |
   Luminary research and development
 feature_image: "../assets/images/panels.png"
@@ -7,7 +7,7 @@ excerpt: "Luminary page"
 aside: true
 ---
 
-# Introduction to Luminary 
+
 
 As the software architect of the Stein Luminary, Steve Cutchin brings to Boise State his leadership experience and guidance in visualization that he gained through working in supercomputer facilities at King Abdullah’s University of Science and Technology, University of California-San Diego, California Institute for Telecommunications and Information Technology, and Walt Disney Feature Animation.
 
@@ -18,7 +18,7 @@ The Stein Luminary combines both touch-activated screens and immersive projectio
 Luminary focuses on visual expierience. Cutchin's work focuses on building and fostering the archiving cultural histories through this project using high technology and intricate software building. 
 
 
-### Image includes
+### A few photo showcasing Luminary 
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
 
