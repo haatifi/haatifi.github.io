@@ -128,10 +128,10 @@ navigation_header:
   url: /research/
 - title: Search
   url: /search/
-- title: Links
+- title: External Links
   url: /links/
-- title: students
-  url: https://github.com/daviddarnes/alembic
+- title: github
+  url: https://github.com/mec402
 
  #footer nav
 navigation_footer:
@@ -139,10 +139,10 @@ navigation_footer:
   url: 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  #Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/scuthcin
-  #GitHub: https://github.com/daviddarnes
-  #link: https://darn.es
+  #Twitter: 
+  LinkedIn:https://www.linkedin.com/in/steve-cutchin-7968b5
+  #GitHub: 
+  #link: 
   #RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
