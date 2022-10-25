@@ -20,11 +20,11 @@ Luminary focuses on visual expierience. Cutchin's work focuses on building and f
 
 ### A few photo showcasing Luminary 
 
-{% include figure.html image="/assets/images/luminary2.jpg" caption="Image with caption" width="500" height="1000" %}
+{% include figure.html image="/assets/images/luminary4.jpg" caption="Image with caption" width="500" height="1000" %}
 
-{% include figure.html image="/assets/images/luminary3.jpg" caption="Right aligned image" position="right" width="500" height="1000" %}
+{% include figure.html image="/assets/images/luminary.jpg" caption="Right aligned image" position="right" width="500" height="1000" %}
 
-{% include figure.html image="/assets/images/luminary3.jpg" caption="Left aligned image" position="left" width="500" height="1000" %}
+{% include figure.html image="/assets/images/luminary3.jpg" alt="Image with just alt text" %}
 
 {% include figure.html image="/assets/images/luminary.jpg" alt="Image with just alt text" %}
 
