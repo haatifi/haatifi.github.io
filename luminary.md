@@ -1,5 +1,5 @@
 ---
-title: Introfuction to Luminary
+title: Introduction to Luminary
 feature_text: |
   Luminary research and development
 feature_image: "../assets/images/panels.png"
@@ -20,20 +20,12 @@ Luminary focuses on visual expierience. Cutchin's work focuses on building and f
 
 ### A few photo showcasing Luminary 
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
+{% include figure.html image="/assets/images/luminary2.jpg" caption="Image with caption" width="500" height="1000" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+{% include figure.html image="/assets/images/luminary3.jpg" caption="Right aligned image" position="right" width="500" height="1000" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+{% include figure.html image="/assets/images/luminary3.jpg" caption="Left aligned image" position="left" width="500" height="1000" %}
 
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
+{% include figure.html image="/assets/images/luminary.jpg" alt="Image with just alt text" %}
 
-``` html
-{% raw %}{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
-```
