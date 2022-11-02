@@ -1,8 +1,8 @@
 ---
-title:  
-feature_text: | Current Students
+title: Current Students
+feature_text: | 
   Students 
-feature_image: " ../assets/images/mec402.jpg"
+feature_image: "../assets/images/mec402.jpg"
 excerpt: "Studetns page"
 aside: true
 ---
