@@ -9,25 +9,25 @@ aside: true
 
 # Current Sutdents 
 
-• Rezvan Joshaghani, (Ph.D.)
+* Rezvan Joshaghani, (Ph.D.)
 
 
 # Graudate Alumni
 
-• Suadad Jasim Computer Science, Boise State University
-• Yuan Li Computer Science, (Ph.D.)
-• Ujjwal Acharya, (M.Sc.)
-• Iker Vazquez Lopez, (Ph.D.)
-• Mike Ramshaw, (M.Sc.)
+* Suadad Jasim Computer Science, Boise State University
+* Yuan Li Computer Science, (Ph.D.)
+* Ujjwal Acharya, (M.Sc.)
+* Iker Vazquez Lopez, (Ph.D.)
+* Mike Ramshaw, (M.Sc.)
 
 # Undergraduate Alumni
 
-• Kenneth Miller,  (B.S.)
-• Afton Carlson, (B.S.)
-• Jonathon Stohler, (B.S.)
-• Anh Tranh,  (B.S.)
-• Michael Pleasance  (B.S.)
-• Lois Baek Computer  (B.S.)
-• Huma Aatifi Computer  (B.S.)
-• Alex Decastro Computer  (B.S.)
-• Ryan Bailey  (B.S.)
+* Kenneth Miller,  (B.S.)
+* Afton Carlson, (B.S.)
+* Jonathon Stohler, (B.S.)
+* Anh Tranh,  (B.S.)
+* Michael Pleasance  (B.S.)
+* Lois Baek Computer  (B.S.)
+* Huma Aatifi Computer  (B.S.)
+* Alex Decastro Computer  (B.S.)
+* Ryan Bailey  (B.S.)
