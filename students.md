@@ -1,8 +1,8 @@
 ---
-title: Students 
+title:  
 feature_text: |
   Students 
-feature_image: "../assets/images/panels.png"
+feature_image: " "
 excerpt: "Studetns page"
 aside: true
 ---
