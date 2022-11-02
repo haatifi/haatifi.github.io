@@ -1,13 +1,12 @@
 ---
 title:  
-feature_text: |
+feature_text: | Current Students
   Students 
-feature_image: " "
+feature_image: " ../assets/images/mec402.jpg"
 excerpt: "Studetns page"
 aside: true
 ---
-
-# Current Sutdents 
+ 
 
 * Rezvan Joshaghani, (Ph.D.)
 
